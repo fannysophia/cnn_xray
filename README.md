@@ -12,4 +12,4 @@ Accurate prediction of surgical outcomes can help clinicians:
 - Support decision-making before surgery  
 - Improve patient counseling and expectation management  
 - Lay the foundation for AI-assisted personalized medicine in spinal surgery
-- 
+
